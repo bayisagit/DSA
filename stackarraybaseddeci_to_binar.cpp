@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-#define MAX 32
+#define MAX 3
 
 class Stack {
 private:
